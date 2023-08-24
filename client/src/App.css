@@ -1,0 +1,15 @@
+/* .sidebar{
+  width: 200px;
+} */
+
+.list-group a:hover{
+  background: blue;
+  color: white;
+  cursor: pointer;
+}
+body{
+  overflow-x: hidden;
+}
+.dropdown-menu{
+right: 0; left: auto;
+}
